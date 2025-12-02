@@ -1,2 +1,2 @@
-# eagles-study-navigator
-Capstone Final Project – Eagles Study Navigator (ITAI 2277)
+ The purpose of this agent is simple: to take long, confusing assignment descriptions and turn them into short, clear summaries with step-by-step tasks. I wanted to build something pretty practical…something a real student (including me) would actually use.
+The agent works by reading an assignment prompt, identifying the key requirements, and then organizing everything into a checklist. The goal was to reduce stress and help with time management, while, of course, preventing students from missing important details. It’s meant to feel like having a study buddy who breaks things down in a more manageable way.
